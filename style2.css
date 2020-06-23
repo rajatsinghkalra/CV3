@@ -1,0 +1,67 @@
+
+body{
+	margin:0px;
+	text-align:center;
+	font-family: 'Dancing Script', cursive;
+}
+h1{
+	margin-top: 0px;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+
+.topcontainer{
+	background-color: #01a9b4;
+
+	
+	
+	margin:0 auto 0 auto;
+	padding-top: 20px;
+	font-family: 'Dancing Script', cursive;
+
+}
+.one{
+	height:200px;
+	width:300px;
+	position: relative;
+	margin-right: 100px;
+}
+.two{
+	height:200px;
+	width:300px;
+}
+.three{
+	height:200px;
+	width:400px;
+	}
+	.four{
+		height:300px;
+		width:300px;
+	}
+	.five{
+		font-size: 20px;
+	}
+	.six{
+		height:300px;
+		width:300px;
+	}
+	.seven{
+		font-size: 10px;
+	}
+p{
+	font-size: 30px;
+	font-family: 'Cantora One', sans-serif;
+}
+.middlecontainer{
+	
+
+
+	
+	
+
+}
+.bottomcontainer{
+	
+	
+	}
